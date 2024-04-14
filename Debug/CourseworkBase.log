@@ -1,0 +1,53 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\/Debug\) contains files shared from another project (CourseworkBase2020.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Button.cpp
+  ColourPicker.cpp
+  DraggingDemo.cpp
+  DrawingSurface.cpp
+  EnemySpawner.cpp
+  FlashingDemo.cpp
+  GameEngine.cpp
+  GameTileManager.cpp
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\GameTileManager.cpp(279,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ImageMappingDemo.cpp
+  mainfunction.cpp
+  BaseEngine.cpp
+  DisplayableObject.cpp
+  FontManager.cpp
+  MenuBackdrop.cpp
+  MovingObject.cpp
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(312,83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(400,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(401,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(409,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(410,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(414,87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(562,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(563,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(584,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(585,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(783,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(784,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(806,44): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\MovingObject.cpp(807,44): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\Projectile.cpp(49,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\Projectile.cpp(53,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\Projectile.cpp(54,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\Projectile.cpp(164,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\Projectile.cpp(168,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\src\Projectile.cpp(169,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  SimpleImage.cpp
+  SimpleDemo.cpp
+  StarfieldDemo.cpp
+  TextBox.cpp
+  Generating Code...
+  Compiling...
+  TileManager.cpp
+  BouncingBall.cpp
+  BouncingBallMain.cpp
+  MazeDemoMain.cpp
+  MazeDemoObject.cpp
+  MazeDemoTileManager.cpp
+  ZoomingDemo.cpp
+  Generating Code...
+  CourseworkBase.vcxproj -> C:\Users\louis\OneDrive\Workspace\Projects\SpaceShooter\Debug\SpaceShooter.exe
